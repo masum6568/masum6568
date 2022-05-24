@@ -26,6 +26,6 @@ Skills: Node JS / REACT / JS / HTML / CSS
 
 ![GitHub metrics](https://metrics.lecoq.io/sm-mazharul-islam)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sm-mazharul-islam)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=?sm-mazharul-islam)  
 
 ![Profile views](https://gpvc.arturio.dev/sm-mazharul-islam) 
