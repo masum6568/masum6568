@@ -65,7 +65,7 @@ Skills: Node JS / REACT / JS / HTML / CSS
 
 ![Profile views](https://gpvc.arturio.dev/sm-mazharul-islam) 
 
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/sm-mazharul-islam?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 
