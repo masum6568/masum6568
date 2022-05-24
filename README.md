@@ -22,10 +22,10 @@ Skills: Node JS / REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=masum6568&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=masum6568)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sm-mazharul-islam)  
 
-![GitHub metrics](https://metrics.lecoq.io/masum6568)  
+![GitHub metrics](https://metrics.lecoq.io/sm-mazharul-islam)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=masum6568)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sm-mazharul-islam)  
 
-![Profile views](https://gpvc.arturio.dev/masum6568) 
+![Profile views](https://gpvc.arturio.dev/sm-mazharul-islam) 
