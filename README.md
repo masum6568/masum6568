@@ -28,4 +28,4 @@ Skills: Node JS / REACT / JS / HTML / CSS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=masum6568)  
 
-![Profile views](https://gpvc.arturio.dev/masum6568)  
+![Profile views](https://gpvc.arturio.dev/masum6568) 
