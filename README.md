@@ -29,3 +29,4 @@ Skills: Node JS / REACT / JS / HTML / CSS
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sm-mazharul-islam)  
 
 ![Profile views](https://gpvc.arturio.dev/sm-mazharul-islam) 
+https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/asset/react-dark.svg
