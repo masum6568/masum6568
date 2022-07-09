@@ -1,8 +1,9 @@
 
+ <img src="[https://ibb.co/vLrSTvf](https://i.ibb.co/r5LVzfq/final.jpg)"/>
 [Web Developer] <img src="(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)"/>
 ### Hi there 👋, I'm S.M Mazharul Islam
 #### Web Developer 
- <img src="[https://ibb.co/vLrSTvf](https://i.ibb.co/r5LVzfq/final.jpg)"/>
+
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: Node JS / REACT / JS / HTML / CSS
