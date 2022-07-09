@@ -1,5 +1,5 @@
 
- <img style={{width:'20%'}} src="https://i.ibb.co/r5LVzfq/final.jpg"/>
+ <img width='10px' src="https://i.ibb.co/r5LVzfq/final.jpg"/>
 [Web Developer] <img src="(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)"/>
 ### Hi there 👋, I'm S.M Mazharul Islam
 #### Web Developer 
