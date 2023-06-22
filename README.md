@@ -4,7 +4,6 @@
 ### Hi there 👋, I'm S.M Mazharul Islam
 #### Web Developer  <img width='60px' src=""/>
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: Node JS / REACT / JS / HTML / CSS
 
