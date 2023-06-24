@@ -49,7 +49,7 @@
 </p>
 
 
-![Profile views](https://gpvc.arturio.dev/masum6568) 
+[Profile views](https://gpvc.arturio.dev/sm-mazharul-islam) 
 
 <a href="https://github.com/sm-mazharul-islam?tab=followers"><img src="https://img.shields.io/github/followers/sm-mazharul-islam?label=Followers&style=social" alt="GitHub Badge"></a>
 
