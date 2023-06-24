@@ -2,10 +2,8 @@
 
 
 ### Hi there 👋, I'm S.M Mazharul Islam
-#### Web Developer  <img width='60px' src=""/>
+#### Web Developer 
 
-
-Skills: Node JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Javascript 
@@ -57,8 +55,9 @@ Skills: Node JS / REACT / JS / HTML / CSS
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/sm-mazharulislam/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/sm-mazharul-islam-masum/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/SM_Mazharul_1"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/welcomesmprofile"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
 <!-- <a href = "https://www.Google.com//"><img src="https://img.icons8.com/fluent/48/000000/google.png"/></a> -->
 
 </p>
