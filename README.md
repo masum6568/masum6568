@@ -2,13 +2,14 @@
 
 
 ### Hi there 👋, I'm S.M Mazharul Islam
-#### Web Developer 
+#### A Passionate Web Developer 
 
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Developer 
+- 💬 Ask me about Web Developer
+- 📫 How to reach me **contactsm.mazharul.islam@gmail.com**
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
@@ -57,13 +58,13 @@
 
 <a href = "https://www.linkedin.com/in/sm-mazharul-islam-masum/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/SM_Mazharul_1"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://twitter.com/welcomesmprofile"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
+<a href = "https://faceboook.com/welcomesmprofile"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
 <!-- <a href = "https://www.Google.com//"><img src="https://img.icons8.com/fluent/48/000000/google.png"/></a> -->
 
 </p>
 
 
-![Profile views](https://gpvc.arturio.dev/sm-mazharul-islam) 
+![Profile views](https://gpvc.arturio.dev/masum6568) 
 
 <a href="https://github.com/sm-mazharul-islam?tab=followers"><img src="https://img.shields.io/github/followers/sm-mazharul-islam?label=Followers&style=social" alt="GitHub Badge"></a>
 
