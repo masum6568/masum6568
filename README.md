@@ -45,6 +45,9 @@
 ## Connect with me:
 
 <p align="left">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sm-mazharul-islam&show_icons=true&locale=en&layout=compact" alt="sm-mazharul-islam" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sm-mazharul-islam&show_icons=true&locale=en" alt="sm-mazharul-islam" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sm-mazharul-islam&" alt="sm-mazharul-islam" /></p>
 
 <a href = "https://www.linkedin.com/in/sm-mazharul-islam-masum/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/SM_Mazharul_1"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
@@ -58,11 +61,6 @@
 
 <a href="https://github.com/sm-mazharul-islam?tab=followers"><img src="https://img.shields.io/github/followers/sm-mazharul-islam?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sm-mazharul-islam&show_icons=true&locale=en&layout=compact" alt="safsdfsdafsd" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sm-mazharul-islam&show_icons=true&locale=en" alt="safsdfsdafsd" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sm-mazharul-islam&" alt="safsdfsdafsd" /></p>
 
 
 
