@@ -1,3 +1,7 @@
+
+
+
+
 <img src="https://i.ibb.co/d7sm4Bp/Simple-Technology-Linked-In-Banner.png"/>
 
 ## Hi there 👋, I'm S.M Mazharul Islam
@@ -44,28 +48,26 @@
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=sm-mazharul-islam)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap;" >
- <div style=" margin-right: 10px">
-<p style="center">&nbsp;<img   src="https://github-readme-stats.vercel.app/api?username=sm-mazharul-islam&show_icons=true&locale=en" alt="sm-mazharul-islam" /></p>
-</div>
- <div >
+ <p align="center">
+<p >&nbsp;<img   src="https://github-readme-stats.vercel.app/api?username=sm-mazharul-islam&show_icons=true&locale=en" alt="sm-mazharul-islam" /></p>
+</p>
+ <p >
 <p> &nbsp;<img  src="https://github-readme-streak-stats.herokuapp.com/?user=sm-mazharul-islam&" alt="sm-mazharul-islam" /></p>
-</div>
+</p>
 
-</div>
-<p align="center" ><img width="500"src="https://github-readme-stats.vercel.app/api/top-langs?username=sm-mazharul-islam&show_icons=true&locale=en&layout=compact" alt="sm-mazharul-islam" /></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sm-mazharul-islam&show_icons=true&locale=en&layout=compact" alt="sm-mazharul-islam" /></p>
 
 ### Connect with me :
 
 ---
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
- <div style="flex:1">
+<p style="display: flex; justify-content: center; flex-wrap: wrap;">
+ <p style="flex:1">
    
 <a href = "https://www.linkedin.com/in/sm-mazharul-islam-masum/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/SM_Mazharul_1"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://faceboook.com/welcomesmprofile"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
-  </div>
+  </p>
 
 <!-- <a href = "https://www.Google.com//"><img src="https://img.icons8.com/fluent/48/000000/google.png"/></a> -->
 
@@ -73,5 +75,6 @@
 <a  href="https://github.com/sm-mazharul-islam?tab=followers"><img style="width: 150px;  " src="https://img.shields.io/github/followers/sm-mazharul-islam?label=Followers&style=social" alt="GitHub Badge"></a>
 
 </div>
-</div>
+</p>
+
 
