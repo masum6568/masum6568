@@ -74,11 +74,4 @@
 
 </div>
 </div>
-<style>
-    @media (max-width: 600px) {
-        div[style*="justify-content: center; flex-wrap: wrap;"] {
-            flex-direction: column;
-      align-items: center;
-    }
-  }
-</style>
+
