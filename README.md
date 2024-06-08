@@ -68,19 +68,9 @@
  
 ###
 
----
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    # Left Section
-    Some content here...
-  </div>
-  <div style="width: 1px; background-color: #000; margin: 0 10px; height: 100px"></div>
-  <div style="flex: 1;">
-    # Right Section
-    More content here...
-  </div>
-</div>
+
+
 
 ---
 
