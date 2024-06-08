@@ -56,10 +56,16 @@
 <img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height="50">
   <img width="12" /> -->
 
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,tailwind,mui,nodejs,mongodb,express,firebase,react,redux,nextjs,vscode,github&perline=16)](https://skillicons.dev)
+<div align="center">
+<a href="https://skillicons.dev">
 
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,firebase,github"/> <br/>
+<img src="https://skillicons.dev/icons?i=react,redux,nextjs,html,css,bootstrap,tailwindcss,mui,vscode"/>
+</a>
 </div>
-
+</div>
+<!--   [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,tailwind,mui,nodejs,mongodb,express,firebase,react,redux,nextjs,vscode,github&perline=16)](https://skillicons.dev)
+ -->
 ###
 ---
 
