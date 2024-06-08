@@ -64,7 +64,7 @@
 
 ###
 
-<a href="https://github.com/sm-mazharul-islam?tab=followers"><img align="right" style="width: 150; margin-top:20  " src="https://img.shields.io/github/followers/sm-mazharul-islam?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/sm-mazharul-islam?tab=followers"><img align="right" style="width: 150;" src="https://img.shields.io/github/followers/sm-mazharul-islam?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ###
 
