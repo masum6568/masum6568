@@ -25,7 +25,7 @@
 ###
 
 <div align="center"> 
-<!--     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/> </a>
       <img width="12" />
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img height="50"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" /> </a>
@@ -54,15 +54,12 @@
      <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img height="50" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" /> </a> 
        <img width="12" />
 <img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height="50">
-  <img width="12" /> -->
+  <img width="12" />
 
 <div align="center">
 
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,firebase,github"/> <br/>
-<img src="https://skillicons.dev/icons?i=react,redux,nextjs,html,css,bootstrap,tailwindcss,mui,vscode"/>
 
-</div>
 </div>
 <!--   [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,tailwind,mui,nodejs,mongodb,express,firebase,react,redux,nextjs,vscode,github&perline=16)](https://skillicons.dev)
  -->
