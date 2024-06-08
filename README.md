@@ -94,8 +94,11 @@
 
 
 <div align="left">
-###Connect with me :
+    
+### Connect with me :
+
 </div>
+
 ---
 
 ###
