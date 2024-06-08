@@ -62,17 +62,17 @@
 
 ---
 
- <p >
-   
+###
+
+<a href="https://github.com/sm-mazharul-islam?tab=followers"><img align="right" style="width: 150;  " src="https://img.shields.io/github/followers/sm-mazharul-islam?label=Followers&style=social" alt="GitHub Badge"></a>
+
+###
+
+<div align="left">
+
 <a href = "https://www.linkedin.com/in/sm-mazharul-islam-masum/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/SM_Mazharul_1"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://faceboook.com/welcomesmprofile"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
-  </p>
-
-<!-- <a href = "https://www.Google.com//"><img src="https://img.icons8.com/fluent/48/000000/google.png"/></a> -->
-
-<div  style="margin-top:8px">
-<a  href="https://github.com/sm-mazharul-islam?tab=followers"><img style="width: 150px;  " src="https://img.shields.io/github/followers/sm-mazharul-islam?label=Followers&style=social" alt="GitHub Badge"></a>
-
 </div>
-</p>
+
+###
