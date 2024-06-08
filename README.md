@@ -57,11 +57,11 @@
   <img width="12" /> -->
 
 <div align="center">
-<a href="https://skillicons.dev">
+
 
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,firebase,github"/> <br/>
 <img src="https://skillicons.dev/icons?i=react,redux,nextjs,html,css,bootstrap,tailwindcss,mui,vscode"/>
-</a>
+
 </div>
 </div>
 <!--   [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,tailwind,mui,nodejs,mongodb,express,firebase,react,redux,nextjs,vscode,github&perline=16)](https://skillicons.dev)
