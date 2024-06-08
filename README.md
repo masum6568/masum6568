@@ -93,9 +93,10 @@
 ###
 
 
-
+<div align="left">
 ### Connect with me :
-###
+</div>
+
 ---
 
 ###
