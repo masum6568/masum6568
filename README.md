@@ -1,4 +1,7 @@
-<img src="https://i.ibb.co/d7sm4Bp/Simple-Technology-Linked-In-Banner.png"/>
+
+
+![Navy Blue Geometric Technology LinkedIn Banner](https://github.com/sm-mazharul-islam/sm-mazharul-islam/assets/86628554/b5bbaf8a-f3d9-481c-9a20-a2a1d0b50edd)
+
 
 
 
