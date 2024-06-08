@@ -43,16 +43,17 @@
 </p>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=sm-mazharul-islam)](https://github.com/ryo-ma/github-profile-trophy) -->
-<p align="center">
-<span>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=sm-mazharul-islam&show_icons=true&locale=en" alt="sm-mazharul-islam"/></span>
 
-</p>
+###
 
- <span >
- <p align="center">
-<span> &nbsp;<img  src="https://github-readme-streak-stats.herokuapp.com/?user=sm-mazharul-islam&" alt="sm-mazharul-islam" /></span>
-</span>
- </p>
+<div align="center">
+<img  src="https://github-readme-stats.vercel.app/api?username=sm-mazharul-islam&show_icons=true&locale=en" alt="sm-mazharul-islam" height="150"/>
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=sm-mazharul-islam&" alt="sm-mazharul-islam"  height="150"/>
+</div>
+
+###
+
 <p align="center"> 
 <span>
 <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=sm-mazharul-islam&show_icons=true&locale=en&layout=compact" alt="sm-mazharul-islam" />
