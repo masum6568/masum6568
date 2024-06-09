@@ -20,11 +20,11 @@
  
 ![pf](https://github.com/sm-mazharul-islam/sm-mazharul-islam/assets/86628554/d2773c41-93c0-41c0-bcb9-80a1de509e11)
 
-
+</div>
 
 ###
   
-
+<div align="left">
  
  #### A Passionate Web Developer
 
@@ -38,6 +38,12 @@
 
 ###
 
+<div align="center">
+  <div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+  </div>
+</div>
 
 
 <h3 align="left" style=" font-size:35px;   "> 🚀 Languages and Tools:</h3>
