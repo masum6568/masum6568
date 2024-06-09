@@ -16,13 +16,13 @@
 </h1>
 
 ###
-<img align="right">
+<p align="right">
  
 ![pf](https://github.com/sm-mazharul-islam/sm-mazharul-islam/assets/86628554/d2773c41-93c0-41c0-bcb9-80a1de509e11)
 
-</img>
+</p>
 
-
+###
   
 <div align="left">
  
