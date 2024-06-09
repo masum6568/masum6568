@@ -37,9 +37,9 @@
 ###
 
 <div align="center"> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank" rel="noreferrer"> <img height="50" style="border: 100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/> </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/> </a>
       <img width="12" />
-      <a href="https://www.typescriptlang.org/" target="blank" rel="noreferrer"> <img height="50"
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img height="50"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" /> </a>
         <img width="12" />
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" /> </a>
