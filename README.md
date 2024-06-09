@@ -16,17 +16,17 @@
 </h1>
 
 ###
-<p align="right">
+<a align="right">
  
 ![pf](https://github.com/sm-mazharul-islam/sm-mazharul-islam/assets/86628554/d2773c41-93c0-41c0-bcb9-80a1de509e11)
 
-</p>
+</a>
 
 ###
   
 <div align="left">
  
- A Passionate Web Developer
+ #### A Passionate Web Developer
 
 - 🔭 I’m currently working on this page.
 - 🌱 I’m currently learning Javascript
