@@ -1,11 +1,11 @@
 
 
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sm-mazharul-islam.sm-mazharul-islam"/>
 ![Navy Blue Geometric Technology LinkedIn Banner](https://github.com/sm-mazharul-islam/sm-mazharul-islam/assets/86628554/b5bbaf8a-f3d9-481c-9a20-a2a1d0b50edd)
 
 
 
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sm-mazharul-islam.sm-mazharul-islam"/>
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+S.M+Mazharul+Islam;"/>
@@ -20,7 +20,10 @@
 - 💬 Ask me about Web Developer
 - 📫 How to reach me **contactsm.mazharul.islam@gmail.com**
 
-<p align="left">
+
+<p align="right">
+    ![pf](https://github.com/sm-mazharul-islam/sm-mazharul-islam/assets/86628554/d2773c41-93c0-41c0-bcb9-80a1de509e11)
+
 </p>
 
 <h3 align="left" style=" font-size:35px;   "> 🚀 Languages and Tools:</h3>
