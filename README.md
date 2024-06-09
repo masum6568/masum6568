@@ -26,7 +26,7 @@
   
 <div align="left">
  
- #### A Passionate Web Developer
+ A Passionate Web Developer
 
 - 🔭 I’m currently working on this page.
 - 🌱 I’m currently learning Javascript
