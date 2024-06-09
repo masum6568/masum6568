@@ -79,7 +79,7 @@
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sm-mazharul-islam&" alt="sm-mazharul-islam"  height="150"/>
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sm-mazharul-islam&show_icons=true&locale=en&layout=compact" alt="sm-mazharul-islam" height="150" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sm-mazharul-islam&show_icons=true&locale=en&layout=compact" alt="sm-mazharul-islam" width="400px" height="200" />
 </div>
 
 ###
@@ -102,8 +102,9 @@
 <div align="left">
 
 <a href = "https://www.linkedin.com/in/sm-mazharul-islam-masum/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/SM_Mazharul_1"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://faceboook.com/welcomesmprofile"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
+<a href = "https://twitter.com/SM_Mazharul_1"><img src=""/></a>
+<a href = "https://faceboook.com/sm.mazharul.islam.2"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
 </div>
+
 
 ###
