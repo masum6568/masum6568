@@ -24,7 +24,7 @@
 
 ###
   
-<div align="left">
+<div>
  
  #### A Passionate Web Developer
 
