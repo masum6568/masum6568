@@ -11,7 +11,7 @@
 
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&pause=1000&color=4adedd&lines=Hi+There!+👋;+I'm+S.M+Mazharul+Islam;"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&pause=1000&color=4adedd&lines=Hi+There!+👋;+I'm+S.M+Mazharul+Islam;+A+Passionate+Web+Developer"/>
     
 </h1>
 
@@ -23,7 +23,6 @@
 
 
  
-   #### A Passionate Web Developer
 - 🔭 I’m currently working on this page.
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on Github
@@ -103,7 +102,7 @@
 
 <a href = "https://www.linkedin.com/in/sm-mazharul-islam-masum/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://faceboook.com/sm.mazharul.islam.2"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
-<a href = "https://twitter.com/SM_Mazharul_1"><img src="https://github.com/sm-mazharul-islam/sm-mazharul-islam/assets/86628554/9044ff56-cd62-4545-9b7d-7897fa2fc960"/></a>
+<a href = "https://twitter.com/SM_Mazharul_1"><img src="https://github.com/sm-mazharul-islam/sm-mazharul-islam/assets/86628554/9fbb2034-4689-4e51-8213-3e672aad23be"/></a>
 <a href = ""><img src="https://github.com/sm-mazharul-islam/sm-mazharul-islam/assets/86628554/9b5d9583-0bdf-4915-b31f-f1d6afc122ce"/></a>
 </div>
 
