@@ -38,19 +38,10 @@
 
 ###
 
-<div align="center">
-  <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
-  </div>
-</div>
 
-[<img style="margin-right: 30px" src=foo.svg height=30>](https://www.example.com/)
-[<img style="margin-right: 30px" src=bar.svg height=30>](https://www.example.com/)
 
-<dd>
-        Multiple levels seems to be possible?
-      </dd>
+
+
 
 <h3 align="left" style=" font-size:35px;   "> 🚀 Languages and Tools:</h3>
 
@@ -113,6 +104,15 @@
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=sm-mazharul-islam)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ###
+
+<div align="center">
+  <div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm-mazharul-islam&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+  </div>
+</div>
+
+
 
 <div align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=sm-mazharul-islam&show_icons=true&locale=en" alt="sm-mazharul-islam" height="150"/>
