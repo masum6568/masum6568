@@ -102,8 +102,9 @@
 <div align="left">
 
 <a href = "https://www.linkedin.com/in/sm-mazharul-islam-masum/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/SM_Mazharul_1"><img src=""/></a>
 <a href = "https://faceboook.com/sm.mazharul.islam.2"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
+<a href = "https://twitter.com/SM_Mazharul_1"><img src="https://github.com/sm-mazharul-islam/sm-mazharul-islam/assets/86628554/9044ff56-cd62-4545-9b7d-7897fa2fc960"/></a>
+<a href = ""><img src="https://github.com/sm-mazharul-islam/sm-mazharul-islam/assets/86628554/9b5d9583-0bdf-4915-b31f-f1d6afc122ce"/></a>
 </div>
 
 
