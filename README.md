@@ -34,6 +34,7 @@
 
 <div align="center">
   <div style="display: flex;">
+   
   #### A Passionate Web Developer
 - 🔭 I’m currently working on this page.
 - 🌱 I’m currently learning Javascript
