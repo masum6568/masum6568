@@ -16,7 +16,7 @@
 </h1>
 
 ###
-<a align="right">
+<a align="right" style="width: 150;">
  
 ![pf](https://github.com/sm-mazharul-islam/sm-mazharul-islam/assets/86628554/d2773c41-93c0-41c0-bcb9-80a1de509e11)
 
@@ -38,9 +38,7 @@
 
 ###
 
-<p align="left">
 
-</p>
 
 <h3 align="left" style=" font-size:35px;   "> 🚀 Languages and Tools:</h3>
 
