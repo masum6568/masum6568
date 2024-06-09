@@ -26,52 +26,26 @@
   
 <div align="left">
  
-
+  #### A Passionate Web Developer
+  <p align="right">
+   
+   ![pf](https://github.com/sm-mazharul-islam/sm-mazharul-islam/assets/86628554/d2773c41-93c0-41c0-bcb9-80a1de509e11)
+</p>
+- 🔭 I’m currently working on this page.
+- 🌱 I’m currently learning Javascript
+- 👯 I’m looking to collaborate on Github
+- 💬 Ask me about Web Developer
+- 📫 How to reach me **contactsm.mazharul.islam@gmail.com**
 
 </div>
 
 ###
 
 
-<div>
-  <div style="display: flex;">
- <div>
- 
-  #### A Passionate Web Developer
-- 🔭 I’m currently working on this page.
-- 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on Github
-- 💬 Ask me about Web Developer
-- 📫 How to reach me **contactsm.mazharul.islam@gmail.com**
- </div>
 
- ![pf](https://github.com/sm-mazharul-islam/sm-mazharul-islam/assets/86628554/d2773c41-93c0-41c0-bcb9-80a1de509e11)
 
-  </div>
+
   
-</div>
-
-  <div class="container">
-    <div class="item">1</div>
-    <div class="item">2</div>
-    <div class="item">3</div>
-  </div>
-
-  * {
-    margin: 0;
-    padding: 0;
-  }
-  .container {
-    display: flex;
-    background: #FAFFFC;
-    border: 5px solid #182945;
-  }
-  .item {
-    background: #9EDDEB;
-    padding: 40px 50px;
-    font-size: 34px;
-    margin: 10px;
-  }
 
 
 
