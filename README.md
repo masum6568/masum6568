@@ -19,7 +19,9 @@
 
 
 
-<img align="right" width="350px" src="https://github.com/sm-mazharul-islam/sm-mazharul-islam/assets/86628554/d2773c41-93c0-41c0-bcb9-80a1de509e11"/>
+<img align="right" width="350px" src="https://github.com/sm-mazharul-islam/sm-mazharul-islam/assets/86628554/b3b3fb62-f1c2-411f-a079-9e817a4d27af"/>
+
+
  
    #### A Passionate Web Developer
 - 🔭 I’m currently working on this page.
