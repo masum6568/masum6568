@@ -50,6 +50,28 @@
   </div>
 </div>
 
+  <div class="container">
+    <div class="item">1</div>
+    <div class="item">2</div>
+    <div class="item">3</div>
+  </div>
+
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  .container {
+    display: flex;
+    background: #FAFFFC;
+    border: 5px solid #182945;
+  }
+  .item {
+    background: #9EDDEB;
+    padding: 40px 50px;
+    font-size: 34px;
+    margin: 10px;
+  }
+
 
 
 
