@@ -18,7 +18,7 @@
 ###
 <div align="center" style="width: 150;">
  
-![pf](https://github.com/sm-mazharul-islam/sm-mazharul-islam/assets/86628554/d2773c41-93c0-41c0-bcb9-80a1de509e11)
+
 
 </div>
 
@@ -26,19 +26,24 @@
   
 <div align="left">
  
- #### A Passionate Web Developer
+
+
+</div>
+
+###
+
+<div align="center">
+  <div style="display: flex;">
+     #### A Passionate Web Developer
 
 - 🔭 I’m currently working on this page.
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on Github
 - 💬 Ask me about Web Developer
 - 📫 How to reach me **contactsm.mazharul.islam@gmail.com**
-
+  ![pf](https://github.com/sm-mazharul-islam/sm-mazharul-islam/assets/86628554/d2773c41-93c0-41c0-bcb9-80a1de509e11)
+  </div>
 </div>
-
-###
-
-
 
 
 
@@ -104,15 +109,6 @@
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=sm-mazharul-islam)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ###
-
-<div align="center">
-  <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm-mazharul-islam&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
-  </div>
-</div>
-
-
 
 <div align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=sm-mazharul-islam&show_icons=true&locale=en" alt="sm-mazharul-islam" height="150"/>
