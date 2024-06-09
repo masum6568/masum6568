@@ -66,8 +66,10 @@
 </p>
 
 
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=sm-mazharul-islam)](https://github.com/ryo-ma/github-profile-trophy) -->
+<div align="center">
+ 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=sm-mazharul-islam)](https://github.com/ryo-ma/github-profile-trophy) 
+ </div>
 
 
 
