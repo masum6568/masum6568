@@ -42,7 +42,9 @@
 - 👯 I’m looking to collaborate on Github
 - 💬 Ask me about Web Developer
 - 📫 How to reach me **contactsm.mazharul.islam@gmail.com**
- </p> ![pf](https://github.com/sm-mazharul-islam/sm-mazharul-islam/assets/86628554/d2773c41-93c0-41c0-bcb9-80a1de509e11)
+ </p> 
+ 
+ ![pf](https://github.com/sm-mazharul-islam/sm-mazharul-islam/assets/86628554/d2773c41-93c0-41c0-bcb9-80a1de509e11)
 
   </div>
 </div>
