@@ -14,6 +14,8 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+S.M+Mazharul+Islam;"/>
     
 </h1>
+###
+    ![pf](https://github.com/sm-mazharul-islam/sm-mazharul-islam/assets/86628554/d2773c41-93c0-41c0-bcb9-80a1de509e11)
 
 #### A Passionate Web Developer
 
@@ -23,9 +25,9 @@
 - 💬 Ask me about Web Developer
 - 📫 How to reach me **contactsm.mazharul.islam@gmail.com**
 
+###
 
-<p align="right">
-    ![pf](https://github.com/sm-mazharul-islam/sm-mazharul-islam/assets/86628554/d2773c41-93c0-41c0-bcb9-80a1de509e11)
+<p align="left">
 
 </p>
 
