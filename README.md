@@ -15,50 +15,31 @@
     
 </h1>
 
-###
-<div align="center" style="width: 150;">
+<br/>
+  <img align="right" width="300px" src="https://github.com/sm-mazharul-islam/sm-mazharul-islam/assets/86628554/d2773c41-93c0-41c0-bcb9-80a1de509e11"/>
+
+<p align="right" style="marginTop:100">klasjflkjsdlkjfklsdajfksjk</p>
+
  
-
-
-</div>
-
-###
-  
-<div align="left">
- 
-  #### A Passionate Web Developer
-  <p align="right">
-   
-   ![pf](https://github.com/sm-mazharul-islam/sm-mazharul-islam/assets/86628554/d2773c41-93c0-41c0-bcb9-80a1de509e11)
-</p>
+   #### A Passionate Web Developer
 - 🔭 I’m currently working on this page.
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on Github
 - 💬 Ask me about Web Developer
 - 📫 How to reach me **contactsm.mazharul.islam@gmail.com**
 
-</div>
-
-###
 
 
-
-
-
-  
-
-
-
-
+<br/>
 <h3 align="left" style=" font-size:35px;   "> 🚀 Languages and Tools:</h3>
 
 ---
 ###
 
 <div align="center"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/> </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank" rel="noreferrer"> <img height="50" style="border: 100px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/> </a>
       <img width="12" />
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img height="50"
+      <a href="https://www.typescriptlang.org/" target="blank" rel="noreferrer"> <img height="50"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" /> </a>
         <img width="12" />
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" /> </a>
