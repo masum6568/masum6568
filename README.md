@@ -18,7 +18,7 @@
 <br/>
   <img align="right" width="300px" src="https://github.com/sm-mazharul-islam/sm-mazharul-islam/assets/86628554/d2773c41-93c0-41c0-bcb9-80a1de509e11"/>
 
-<p align="right" style="marginTop:100">klasjflkjsdlkjfklsdajfksjk</p>
+
 
  
    #### A Passionate Web Developer
