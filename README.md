@@ -35,7 +35,6 @@
 
 <div>
   <div style="display: flex;">
-  
  <div>
  
   #### A Passionate Web Developer
