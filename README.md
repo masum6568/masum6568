@@ -11,7 +11,7 @@
 
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&pause=1000&color=4adedd&lines=Hi+There!+👋;+I'm+S.M+Mazharul+Islam;+A+Passionate+Web+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&pause=1000&color=4adedd&lines=Hi+There!+👋;+I'm+S.M+Mazharul+Islam;/>
     
 </h1>
 
@@ -22,7 +22,7 @@
 <img align="right" width="350px" src="https://github.com/sm-mazharul-islam/sm-mazharul-islam/assets/86628554/b3b3fb62-f1c2-411f-a079-9e817a4d27af"/>
 
 
- 
+ ### A Passionate Web Developer
 - 🔭 I’m currently working on this page.
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on Github
