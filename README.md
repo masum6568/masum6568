@@ -44,13 +44,16 @@
 
 
 
-
-
-
 <div align="center">
- 
-<img src="https://streak-stats.demolab.com?user=sm-mazharul-islam&theme=gotham&hide_border=true&card_width=550)](https://git.io/streak-stats"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=sm-mazharul-islam&show_icons=true&locale=en&theme=gotham&hide_border=true" alt="sm-mazharul-islam" height="150"/>
+
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=sm-mazharul-islam&theme=gotham&hide_border=true" alt="sm-mazharul-islam"  height="150"/>
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sm-mazharul-islam&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true" alt="sm-mazharul-islam" width="400px" height="200" />
 </div>
+
+
  
 
 
