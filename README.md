@@ -15,8 +15,6 @@
 
 <br/>
 
- 
-
 
 ### - 🔭 I’m currently working on this page.
 ### - 🌱 I’m currently learning Javascript
@@ -24,18 +22,17 @@
 ### - 💬 Ask me about Web Developer
 ### - 📫 How to reach me **contactsm.mazharul.islam@gmail.com**
 
-
-
 <br/>
 
+
+<h3 align="left"> 🚀 Languages and Tools:</h3>
 
 ---
 
 
 <img align="right" width="320px" src="https://github.com/sm-mazharul-islam/sm-mazharul-islam/assets/86628554/b3b3fb62-f1c2-411f-a079-9e817a4d27af"/>
-
-<h3 align="left" style=" font-size:35px;"> 🚀 Languages and Tools:</h3>
- 
+ <br/>
+ <br/>
 <img align="" width="470" src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,tailwind,mui,nodejs&perline=8"/>
 <img align="" width="470" src="https://skillicons.dev/icons?i=mongodb,express,firebase,react,redux,nextjs,vscode,github&perline=8"/>
 
