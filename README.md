@@ -16,11 +16,11 @@
 <br/>
 
 
-### - 🔭 I’m currently working on this page.
-### - 🌱 I’m currently learning Javascript
-### - 👯 I’m looking to collaborate on Github
-### - 💬 Ask me about Web Developer
-### - 📫 How to reach me **contactsm.mazharul.islam@gmail.com**
+ 🔭 I’m currently working on this page.
+ 🌱 I’m currently learning Javascript
+ 👯 I’m looking to collaborate on Github
+ 💬 Ask me about Web Developer
+ 📫 How to reach me **contactsm.mazharul.islam@gmail.com**
 
 <br/>
 
