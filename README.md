@@ -21,12 +21,11 @@
 <img align="right" width="350px" src="https://github.com/sm-mazharul-islam/sm-mazharul-islam/assets/86628554/b3b3fb62-f1c2-411f-a079-9e817a4d27af"/>
 
 
- ### A Passionate Web Developer
-- 🔭 I’m currently working on this page.
-- 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on Github
-- 💬 Ask me about Web Developer
-- 📫 How to reach me **contactsm.mazharul.islam@gmail.com**
+### - 🔭 I’m currently working on this page.
+### - 🌱 I’m currently learning Javascript
+### - 👯 I’m looking to collaborate on Github
+### - 💬 Ask me about Web Developer
+### - 📫 How to reach me **contactsm.mazharul.islam@gmail.com**
 
 
 
