@@ -40,7 +40,8 @@
  
 <img align="" width="480" src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,tailwind,mui,nodejs&perline=8"/>
 <img align="" width="480" src="https://skillicons.dev/icons?i=mongodb,express,firebase,react,redux,nextjs,vscode,github&perline=8"/>
- 
+
+ <br/>
 <div align="center">
 
 </div>
